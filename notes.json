@@ -1,0 +1,11 @@
+{
+  "_meta": {
+    "app": "Pro Hauls Drivers Map",
+    "description": "Shared sales notes keyed by USDOT. Keep this file in a shared Drive/Dropbox folder.",
+    "version": 1,
+    "updated_at": null,
+    "updated_by": null,
+    "note_count": 0
+  },
+  "byDot": {}
+}
